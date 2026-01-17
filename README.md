@@ -14,4 +14,4 @@ This is a practice repository to learn GitHub.
 - [Create new file](https://github.com/blueskyflow44-sketch/my-first-project/new/main)
 
 ## 👤 Author
-Created by blueskyflow44-sketch
+Created by [blueskyflow44-sketch](https://github.com/blueskyflow44)
